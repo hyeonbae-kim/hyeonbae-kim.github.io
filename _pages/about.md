@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Department of Artificial Intelligence, Kyung Hee University, Republic of Korea
 
@@ -17,7 +17,7 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-Hello! I'm **Hyeonbae Kim**, a master's student in the **Department of Artificial Intelligence** at **Kyung Hee University**, and a member of the **Augmented Intelligence Lab**.
+Hello! I'm **Hyeonbae Kim**, a master's student in the **Department of Artificial Intelligence** at **Kyung Hee University**, and a member of the **Augmented Intelligence Lab**, advised by Prof.Seong Tae Kim.
 
 My research focuses on **Explainable AI (XAI)** and **Dense Video Captioning**, with a particular interest in applying **Vision-Language Models** to healthcare. Recently, I contributed to the following publications:
 - **AAAI 2025** (2nd Author): HiCM^2 : Hierarchical Compact Memory Modeling for Dense Video Captioning.
@@ -29,6 +29,7 @@ My research focuses on **Explainable AI (XAI)** and **Dense Video Captioning**, 
 I’m passionate about leveraging AI to solve real-world problems, especially in the healthcare domain, and I aim to pursue a Ph.D. to further my expertise.
 
 Feel free to check out my [GitHub](https://github.com/hyeonbae-kim) for more projects, or contact me via email: **hyeonbae.kim@khu.ac.kr**.
+
 
 * Template
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
